@@ -1,32 +1,32 @@
 # ResumeMaker - A Python Webapp for creating a Resume with ease.
 ## ResumeMaker is made using a python library named [Streamlit](https://www.streamlit.io/). This library helps in building fluid webapps without any fuss. 
 ##### Home Page:
-![HomePage](https://ajaypisharody.github.com/images/homepage.png)
-
+![HomePage](https://github.com/ajaypisharody/ResumeMaker/blob/master/images/homepage.png)
 ##### Are you a Student? 
-![Student](https://ajaypisharody.github.com/images/student.png)
+![Student](https://github.com/ajaypisharody/ResumeMaker/blob/master/images/student.png)
 
 ##### Or are you an Employee?
-![employee](https://ajaypisharody.github.com/images/employee.png)
+![employee](https://github.com/ajaypisharody/ResumeMaker/blob/master/images/employee.png)
 
 ##### Select your Birthdate
-![birthdate](https://ajaypisharody.github.com/images/birthdate.png)
+![birthdate](
+https://github.com/ajaypisharody/ResumeMaker/blob/master/images/birthdate.png)
 
 ##### Select your Skills
-![skills](https://ajaypisharody.github.com/images/skills.png)
+![skills](https://github.com/ajaypisharody/ResumeMaker/blob/master/images/skills.png)
 
 ##### Add an objective and press the "Create Resume!" button
-![button](https://ajaypisharody.github.com/images/button.png)
+![button](https://github.com/ajaypisharody/ResumeMaker/blob/master/images/button.png)
 
 ##### Your Resume will be created
-![creating](https://ajaypisharody.github.com/images/creating.png)
+![creating](https://github.com/ajaypisharody/ResumeMaker/blob/master/images/creating.png)
 
 
 
 ##### And Voila!!
-![created](https://ajaypisharody.github.com/images/created.png)
+![created](https://github.com/ajaypisharody/ResumeMaker/blob/master/images/created.png)
 
-![resume](https://ajaypisharody.github.com/images/resume.png)
+![resume](https://github.com/ajaypisharody/ResumeMaker/blob/master/images/resume.png)
 
 
 
